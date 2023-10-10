@@ -19,3 +19,9 @@ Per executar el projecte a Linux/macOS cal
 ```bash
 ./run.sh com.project.Main
 ```
+
+## Codi de:
+
+Codi original de 'Erik Tamaño' per la pràctica DAM de 'Els Miners'
+
+[ErikTamanoSantos](https://github.com/ErikTamanoSantos)
